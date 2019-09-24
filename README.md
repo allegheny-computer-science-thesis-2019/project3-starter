@@ -8,7 +8,7 @@ Organization](https://github.com/allegheny-computer-science-thesis-2019).
 
 ## Accessing the Peer Editing Template
 
-For all peer editing assignments you are to read, review, and provide suggestions 
+For all peer review assignments you are to read, review, and provide suggestions 
 for editing a thesis proposal document  of at least one research partner at its various stages. 
 After you have made careful and detailed edits in the draft document directly 
 (either in paper or electronic form), you must also fill out the peer editing summary 
