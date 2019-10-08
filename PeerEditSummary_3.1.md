@@ -1,4 +1,4 @@
-# Peer Rview Summary for Project 3.1 in CMPSC 600 Fall 2019
+# Peer Review Summary for Project 3.1 in CMPSC 600 Fall 2019
 
 Please fill out the following checklist and answer the questions below.
 
